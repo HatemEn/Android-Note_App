@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Note</string>
+    <string name="app_splash_title">My Favorite Note</string>
+    <string name="app_splash_body">
+        The app design by hatem. Its simple note app with a lot of feature
+        to make ever thing easy. If you have any recommendation please tell us.
+    </string>
+</resources>
